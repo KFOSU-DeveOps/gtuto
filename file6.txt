@@ -2,3 +2,5 @@ Hello team IT
 Our lesson today is GIT
 Get ready team!!
 Conflict in git
+Learning git conflict
+
